@@ -1,0 +1,37 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "NiVZ",
+    "longName": "MOCKUP",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/Rebel.png",
+                "name": "IMAGE_MOCKUP_2",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/Imperial.png",
+                "name": "IMAGE_MOCKUP_1",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "MOCKUP",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "177611cf-14e8-4c7d-98c7-27b4d9638a38",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
